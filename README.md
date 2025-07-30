@@ -73,5 +73,5 @@ The goal of this project is to analyze consumer shopping behavior using historic
 ## 📎 Project Author
 
 👤 Ahmed Hamdy  
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ahmed-hamdy-56a0972a3/))  
+🔗 [LinkedIn]((https://www.linkedin.com/in/ahmed-hamdy-56a0972a3/))
 📧 ahmed.hamdy9984@gmail.com
